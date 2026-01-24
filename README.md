@@ -1,11 +1,12 @@
-# Mattia Rubini
+# README
+I've never worked with [Ruby](https://www.ruby-lang.org/en/) before.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit vehicula turpis et sodales. Mauris gravida sem eu nibh euismod, eget rhoncus mi rutrum. Donec mollis est quis lacus dignissim, blandit malesuada odio elementum. Maecenas id hendrerit elit. Phasellus rutrum vitae ante vitae varius. Morbi dapibus in elit at placerat. Nunc sodales elit nec neque fringilla, ut suscipit tellus bibendum. Suspendisse fringilla lacus felis, vel imperdiet nisi pulvinar sit amet. Suspendisse in interdum felis, vitae sodales lectus. Nam nec fringilla quam. Morbi fermentum in dui ut viverra. Donec gravida vestibulum elit sit amet vestibulum. Sed mauris risus, sollicitudin sit amet mauris quis, semper aliquam tellus.
+Thank you github pages for providing me the tools to present my work.
 
-Sed semper facilisis varius. Duis ut porttitor urna. Phasellus lobortis arcu ac neque fermentum, in rhoncus tortor vehicula. Cras posuere tincidunt dignissim. In arcu enim, hendrerit ut viverra in, ultrices quis diam. Vestibulum enim dolor, consectetur non justo ac, efficitur vehicula leo. Cras malesuada sagittis ipsum non pellentesque. Nulla scelerisque erat at elit sodales, id porttitor justo pharetra. Pellentesque convallis pellentesque erat, vitae congue turpis semper et. Curabitur non lacinia velit. Praesent elit lorem, semper vitae tortor a, vehicula eleifend nisl. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat maximus diam. Nulla posuere vehicula enim quis luctus. Maecenas sodales lacus congue odio dignissim rhoncus. Quisque sit amet ornare orci.
-
-Aliquam a metus quis nisl faucibus mollis at vel justo. Duis vulputate magna vehicula erat gravida elementum. Morbi maximus magna nec urna pulvinar, at ullamcorper diam tempus. Nunc malesuada metus velit, id dapibus mi tempor quis. Nulla facilisi. Vestibulum congue tempor enim, eu ultrices metus porttitor non. Quisque gravida tempus imperdiet. Proin vitae finibus mauris, aliquam placerat justo. Nunc ultrices congue lectus id ornare. Vivamus gravida tempor libero sed posuere. Maecenas finibus euismod nisl, et tristique ipsum posuere et. Maecenas fringilla lectus id lorem tincidunt tristique. Duis molestie est nec efficitur ultrices.
-
-Cras vitae lectus aliquet, pulvinar dui eu, auctor purus. Nam a ultrices leo, ac dignissim magna. Nullam finibus mauris eget diam lobortis facilisis. Curabitur condimentum suscipit iaculis. Duis commodo tellus nec eros pellentesque tincidunt. Nunc et vehicula neque, non facilisis tellus. Vestibulum eleifend elit ac feugiat accumsan. Fusce sagittis venenatis finibus. Vivamus accumsan, eros vel porttitor posuere, ligula nisl pharetra justo, et venenatis tortor augue a ligula. Suspendisse dapibus finibus justo non rutrum. Integer molestie ullamcorper nunc vestibulum tristique. Phasellus eu lectus sit amet leo gravida vestibulum non ut nulla. Nulla semper metus sem, non laoreet nunc aliquet eget.
-
-Proin tincidunt tincidunt vestibulum. Nulla commodo ornare nunc. Sed sodales molestie tellus a facilisis. Praesent porttitor ipsum tellus, vulputate rhoncus ipsum blandit in. Proin vel tellus vitae augue sodales condimentum. Maecenas semper eros id augue porttitor aliquam. Nam a tellus a ex euismod sodales. Proin et est interdum, vestibulum dui a, pharetra lacus. In quam quam, venenatis et felis a, dictum ultrices quam. Integer ultricies facilisis nisi, a placerat ligula vehicula a. Etiam et enim sed sapien pretium eleifend at facilisis ante. 
+## Usefull links
+Pinning usefull resources to work on this project:
+- [GitHub Pages](https://docs.github.com/en/pages)
+- [Creating a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+- [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+- Jekyll theme [minima](https://github.com/jekyll/minima), using version 2.5.x ([docs](https://github.com/jekyll/minima/blob/v2.5.0/README.md))
+- [Jekyll posts](https://jekyllrb.com/docs/posts/)
