@@ -1,0 +1,15 @@
+version: '3'
+
+tasks:
+
+  default:
+    silent: true
+    cmd: task --list
+
+  dependencies:
+    desc: Install dependencies specified in the Gemfile
+    cmd: bundle install
+
+  run:
+    desc: Run locally website
+    cmd: bundle exec jekyll serve
