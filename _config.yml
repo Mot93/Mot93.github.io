@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mattia's code projects
+title: Mattia's code
 # email: your-email@example.com
+# logo: ./goodlokingguy.jpg
 description: |
   Do you want to automate any software?
   Come on let's go and script
@@ -27,12 +28,25 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: mattiarubini.com
 url: "https://mattiarubini.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Mot93
-linkedin_username: mattia-rubini-1b8b49112
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+#   - jekyll-feed
+
+# Specific to minimalistic
+gem:
+  - jekyll-remote-theme
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: auto
+favicon: true
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/mot93
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/mattia-rubini-1b8b49112/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
