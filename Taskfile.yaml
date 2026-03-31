@@ -11,5 +11,5 @@ tasks:
     cmd: bundle install
 
   run:
-    desc: Run locally website
+    desc: Run website locally
     cmd: bundle exec jekyll serve
