@@ -31,8 +31,10 @@ github_username: Mot93
 
 # Build settings
 # theme: minima
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
 # Specific to minimalistic
 gem:
@@ -47,6 +49,16 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/mattia-rubini-1b8b49112/
+
+
+navigation:
+  - name: Home
+    link: ./
+    sublist:
+      - name: Who am I?
+        link: ./#Who-am-I?
+      - name: What do I like to do?
+        link: ./#What-do-I-like-to-do?
 
 # Exclude from processing.
 # The following items will not be processed, by default.
